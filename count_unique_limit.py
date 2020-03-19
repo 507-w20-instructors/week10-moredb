@@ -1,5 +1,4 @@
 '''
-
 Write and test queries to get the following data:
 
 - Return the number of customers in the North America Region
